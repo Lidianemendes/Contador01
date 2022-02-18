@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rosybrown;
+  text-align: center;
+  margin-top: 20%;
+}
+container {
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+button {
+  background-color: magenta;
+  border: none;
+  font-size: 4vw;
+  padding: 1vh 3vw;
+  color: blueviolet;
+  margin-top: 2.5%;
+}
+
+h2 {
+  font-size: 5vw;
+}
